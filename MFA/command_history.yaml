@@ -1,0 +1,37 @@
+- command: C:\Users\ZAMINDAR\anaconda3\envs\mfa_env\Scripts\mfa validate corpus english_us_arpa
+    english_us_arpa
+  date: 2025-11-05 14:56:29.434673
+  exception: ''
+  execution_time: 332.34069418907166
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\ZAMINDAR\anaconda3\envs\mfa_env\Scripts\mfa validate E:\slfi\MFA\MFA_dataset\corpus
+    english_us_arpa english_us_arpa
+  date: 2025-11-05 15:08:43.033108
+  exception: ''
+  execution_time: 273.81285309791565
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\ZAMINDAR\anaconda3\envs\mfa_env\Scripts\mfa validate E:\slfi\MFA\MFA_dataset\corpus
+    C:\Users\ZAMINDAR\Documents\MFA\pretrained_models\dictionary\english_us_arpa.dict
+    C:\Users\ZAMINDAR\Documents\MFA\pretrained_models\g2\english_us_arpa.zip
+  date: 2025-11-05 15:25:52.966185
+  exception: ''
+  execution_time: 264.43109130859375
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\ZAMINDAR\anaconda3\envs\mfa_env\Scripts\mfa validate E:\slfi\MFA\MFA_dataset\corpus
+    C:\Users\ZAMINDAR\Documents\MFA\pretrained_models\dictionary\english_us_arpa.dict
+    C:\Users\ZAMINDAR\Documents\MFA\pretrained_models\g2\english_us_arpa.zip E:\slfi\MFA\MFA_dataset\aligned_output
+  date: 2025-11-05 15:31:43.682436
+  exception: ''
+  execution_time: 254.72559928894043
+  exit_code: 0
+  version: 3.3.8
+- command: C:\Users\ZAMINDAR\anaconda3\envs\mfa_env\Scripts\mfa align E:\slfi\MFA\MFA_dataset\corpus
+    english_us_arpa english_us_arpa E:\slfi\MFA\MFA_dataset\aligned_output
+  date: 2025-11-05 15:45:05.754377
+  exception: ''
+  execution_time: 168.06016755104065
+  exit_code: 0
+  version: 3.3.8
